@@ -3,7 +3,7 @@
 Duofund 프로젝트의 제품 기준, 웹앱, 백엔드 API, 운영 문서를 함께 관리하는 GitHub Organization입니다.
 
 <p align="center">
-  <img src="assets/mascot/duofund-mascot.png" alt="Duofund mascot" width="360" />
+  <img src="assets/mascot/duofund-mascot.png" alt="Duofund mascot" width="260" />
 </p>
 
 ## Duofund
@@ -25,10 +25,11 @@ Duofund는 커플 / 공유 가계부를 위한 서비스입니다. 공동 계좌
 
 ## Branding
 
-- canonical mascot: `duofund-spec/assets/mascot/duofund-mascot.png`
+- app mascot source: `duofund-app/public/mascot/duofund-guide-mascot-wand.png`
+- spec/profile copy: `duofund-spec/assets/mascot/duofund-mascot.png`
 - organization profile copy: `.github/profile/assets/mascot/duofund-mascot.png`
 
-두 파일은 같은 PNG를 유지합니다.
+세 파일은 같은 PNG를 유지합니다.
 
 ## Deployment
 
