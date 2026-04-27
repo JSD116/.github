@@ -19,13 +19,13 @@ Duofund는 커플 / 공유 가계부를 위한 서비스입니다. 공동 계좌
 ## Current Product Surface
 
 - Web App: 홈, 기록, 자산, 미션, 설정
-- Backend API: 인증 / 세션, 프로필 이미지, 그룹, 계좌, 거래, 예산, 자산, 이벤트, 스냅샷, 통계
+- Backend API: 인증 / 세션, 프로필 이미지, 그룹, 계좌, 거래, 예산, 자산, 예산 스냅샷, 통계
 - Mission Board: 현재 웹앱 로컬 저장 기반, 서버 동기화는 후속 범위
 - API Docs: `duofund-server/docs/api/openapi-v1.yaml` 기준
 
 ## Branding
 
-- app mascot source: `duofund-app/public/mascot/duofund-guide-mascot-wand.png`
+- app mascot source: `duofund-app/public/pwa-maskable-512.png`
 - spec/profile copy: `duofund-spec/assets/mascot/duofund-mascot.png`
 - organization profile copy: `.github/profile/assets/mascot/duofund-mascot.png`
 
